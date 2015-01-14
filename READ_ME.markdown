@@ -1,1 +1,0 @@
-First ever android app. I learned how to do this from teamtreehouse.com and then from google searching other features. Stack over flow was really really helpful. The app is very boring and simple. I made this app with my daughter for her show and tell. She is so proud.
